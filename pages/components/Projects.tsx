@@ -28,13 +28,7 @@ const Projects = () => {
                       </div>
                     </a>
                   </div>
-                  <div className="bg-white ml-2 font-semibold">
-                    <a href={item.github} target="_blank" rel="noreferrer">                      
-                      <span className="block py-1 px-2 bg-white bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
-                        Source Code
-                      </span>
-                    </a>
-                  </div>
+
                 </div>
               </div>
               <div className="lg:ml-12">

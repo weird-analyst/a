@@ -1,0 +1,14 @@
+"use strict";
+exports.id = 492;
+exports.ids = [492];
+exports.modules = {
+
+/***/ 492:
+/***/ ((module) => {
+
+module.exports = JSON.parse('{"G":[{"title":"About","url":"http://www.example.com/about"},{"title":"Projects","url":"http://www.example.com/portfolio"},{"title":"Contact","url":"http://www.example.com/contact"}],"rP":{"name":"Adarsh Gupta.","subtitle":"always a student"},"jZ":{"title":"About me","image":"/pf.jpg","primary":"Heya! I am Adarsh Gupta, a 2nd year CSE Student at IIT Guwahati. My main interests are Machine Learning, and it\'s applications to biology and particularly neuroscience. Always hoping to learn more!","secondary":"I love Coding and Pokemon :)"},"q":{"title":"Projects","projects":[{"title":"ImageTalk","description":"This is an Interactive Image Communication Web App which blends Langchain\'s language prowess with Hugging Face\'s image understanding and OpenAI\'s interactive capabilities. This innovative platform lets you engage in conversations with images, transcending traditional visual interactions.","url":"https://github.com/weird-analyst/ImageTalk/","image":"/pro2.png"},{"title":"LipNet-Redux (Ongoing)","description":"This is an ambitious endeavor to resurrect the pioneering LipNet model, infusing it with cutting-edge Computer Vision techniques. The result? A transformative tool that reads lips in real-time conversations. Powered by Python and TensorFlow.","url":"https://github.com/weird-analyst/LipNet-Redux","image":"/pro1.png"},{"title":"Antahsagiri (Ongoing)","description":"Antahsagiri represents an exciting ongoing project at our college, focused on the development of a Remotely Operated Vehicle (ROV) with a specialized focus on advanced Image Processing. As a dedicated member of the team, my responsibilities revolve around harnessing cutting-edge image processing techniques to enhance the ROV\'s capabilities.","url":"https://github.com/weird-analyst/Antahsagari-Documentation","image":"/pro4.png"},{"title":"CosmicFlicks","description":"Dive into the world of personalized movie recommendations with CosmicFlicks. Our project harnesses the power of the TMDB 5000 movies database to curate tailored movie suggestions just for you. Using an out-of-bag model for tag vectorization and the magic of cosine similarity, we bring you a simple yet effective movie recommendation system.","url":"https://github.com/weird-analyst/CosmicFlicks","image":"/pro3.png"}]},"PX":{"title":"Contact","description":"This is where you can describe about your contact. The more you describe about your contact, the more chances you have!","formId":"xrgwlkqq"},"Mv":{"linkedin":"https://www.linkedin.com/in/adarsh-gupta-77842b149/","instagram":"https://www.instagram.com/i.adarshgupta/","github":"https://github.com/weird-analyst"}}');
+
+/***/ })
+
+};
+;
