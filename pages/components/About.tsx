@@ -25,7 +25,7 @@ const About = () => {
             <span>{about.secondary}</span>
           </div>
           <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
-            <a href="https://drive.google.com/file/d/1BerEHTDs8ixBvtdh43s3BaxSCGo6jqEE/view?usp=sharing" target="_blank" className="about__resume text-white text-l">View Resume</a>
+            <a href="https://drive.google.com/file/d/1b2liE11mradiMnoBQb-KZ9T5QHgdguPO/view?usp=sharing" target="_blank" className="about__resume text-white text-l">View Resume</a>
           </div>
         </div>
       </div>
